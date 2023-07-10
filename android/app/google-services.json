@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "562844741323",
+    "project_id": "mojprevoz-e6e69",
+    "storage_bucket": "mojprevoz-e6e69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562844741323:android:81173561f246b6df75b54e",
+        "android_client_info": {
+          "package_name": "com.example.moj_prevoz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562844741323-sbu6qtqa8qoth81l56spkdlrajark1nt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCttnumSczwG049y-xTTlT5XYVUvnGCbNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562844741323-sbu6qtqa8qoth81l56spkdlrajark1nt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
